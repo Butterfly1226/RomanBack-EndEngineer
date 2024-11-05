@@ -33,7 +33,7 @@
 
 <h1>Welcome to My GitHub Profile!</h1>
 
-<p>Hello there! I'm a seasoned <span class="highlight">Software Developer</span> with over 14 years of experience, primarily focused on <span class="highlight">Backend Solutions</span>. My passion lies in optimizing code, integrating complex systems, and ensuring projects are executed smoothly from start to finish.</p>
+<p>Hello there! I'm a seasoned <span cla">Software Developer</span> with over 14 years of experience, primarily focused on <span class="highlight">Backend Solutions</span>. My passion lies in optimizing code, integrating complex systems, and ensuring projects are executed smoothly from start to finish.</p>
 
 <div class="section">
     <h2>🌟 What I Do</h2>
