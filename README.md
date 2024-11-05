@@ -1,34 +1,5 @@
 
 <head>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            color: #333;
-        }
-        h1, h2, h3 {
-            color: #2c3e50;
-        }
-        h1 {
-            border-bottom: 2px solid #2980b9;
-            padding-bottom: 10px;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            margin: 5px 0;
-        }
-        .section {
-            margin-bottom: 40px;
-        }
-        .highlight {
-            color: #2980b9;
-            font-weight: bold;
-        }
-    </style>
-</head>
 <body>
 
 <h1>Welcome to My GitHub Profile!</h1>
